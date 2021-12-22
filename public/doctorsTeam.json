@@ -1,0 +1,58 @@
+[
+  {
+    "id": 101,
+    "name": "Dr. Johnson",
+    "title": "Cardiologist",
+    "description": "Aenean facilisis sodales est neciMorbi vitapurus on Est facilisisro convallis",
+    "img": "http://kamleshyadav.com/healthcare/healthcare/assets/images/team1.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Dr. Nancy",
+    "title": "Surgeon",
+    "description": "Aenean facilisis sodales est neciMorbi vitapurus on Est facilisisro convallis",
+    "img": "http://kamleshyadav.com/healthcare/healthcare/assets/images/team2.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Dr. Jorz Maxwell",
+    "title": "Dentist",
+    "description": "Aenean facilisis sodales est neciMorbi vitapurus on Est facilisisro convallis",
+    "img": "http://kamleshyadav.com/healthcare/healthcare/assets/images/team3.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Dr. Nilla Roy",
+    "title": "Gynelogist",
+    "description": "Aenean facilisis sodales est neciMorbi vitapurus on Est facilisisro convallis",
+    "img": "http://kamleshyadav.com/healthcare/healthcare/assets/images/team4.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Dr. Adam Jani",
+    "title": "Pediatrician",
+    "description": "Aenean facilisis sodales est neciMorbi vitapurus on Est facilisisro convallis",
+    "img": "http://kamleshyadav.com/healthcare/healthcare/assets/images/team5.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Dr. Nikki Bella",
+    "title": "Gynelogist",
+    "description": "Aenean facilisis sodales est neciMorbi vitapurus on Est facilisisro convallis",
+    "img": "http://kamleshyadav.com/healthcare/healthcare/assets/images/team6.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Dr. Sanju Samson",
+    "title": "Surgeon",
+    "description": "Aenean facilisis sodales est neciMorbi vitapurus on Est facilisisro convallis",
+    "img": "http://kamleshyadav.com/healthcare/healthcare/assets/images/team7.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Dr. Charus Dolly",
+    "title": "Dentist",
+    "description": "Aenean facilisis sodales est neciMorbi vitapurus on Est facilisisro convallis",
+    "img": "http://kamleshyadav.com/healthcare/healthcare/assets/images/team8.jpg"
+  }
+]

@@ -1,0 +1,8 @@
+.doctor-item{
+    transition: all linear 0.3s;
+    border: 1px solid transparent;
+}
+.doctor-colum:hover .doctor-item{
+transform: scale(0.99);
+border: 1px solid green;
+}

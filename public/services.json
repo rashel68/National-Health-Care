@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Pediatric Clinic",
+    "description": "Fusce auctor magna aus feugiat ultricies. Donec aliquet dolor elit volutpat neque pulvinar eu. Nullam dapibus metus sed dui congue congue",
+    "imgUrl": "https://kamleshyadav.com/healthcare/images/portfolio/portfolio1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dental Clinic",
+    "description": "Fusce auctor magna aus feugiat ultricies. Donec aliquet dolor elit volutpat neque pulvinar eu. Nullam dapibus metus sed dui congue congue",
+    "imgUrl": "https://kamleshyadav.com/healthcare/images/portfolio/portfolio2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "General Surgery",
+    "description": "Fusce auctor magna aus feugiat ultricies. Donec aliquet dolor elit volutpat neque pulvinar eu. Nullam dapibus metus sed dui congue congue",
+    "imgUrl": "https://kamleshyadav.com/healthcare/images/portfolio/portfolio3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "General Surgery",
+    "description": "Fusce auctor magna aus feugiat ultricies. Donec aliquet dolor elit volutpat neque pulvinar eu. Nullam dapibus metus sed dui congue congue",
+    "imgUrl": "https://kamleshyadav.com/healthcare/images/portfolio/portfolio4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Emergency Service",
+    "description": "Fusce auctor magna aus feugiat ultricies. Donec aliquet dolor elit volutpat neque pulvinar eu. Nullam dapibus metus sed dui congue congue",
+    "imgUrl": "https://kamleshyadav.com/healthcare/images/portfolio/portfolio5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Pregnancy Care",
+    "description": "Fusce auctor magna aus feugiat ultricies. Donec aliquet dolor elit volutpat neque pulvinar eu. Nullam dapibus metus sed dui congue congue",
+    "imgUrl": "https://kamleshyadav.com/healthcare/images/portfolio/portfolio6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Cancer Care",
+    "description": "Fusce auctor magna aus feugiat ultricies. Donec aliquet dolor elit volutpat neque pulvinar eu. Nullam dapibus metus sed dui congue congue",
+    "imgUrl": "https://kamleshyadav.com/healthcare/images/portfolio/portfolio7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Occupational Therapy",
+    "description": "Fusce auctor magna aus feugiat ultricies. Donec aliquet dolor elit volutpat neque pulvinar eu. Nullam dapibus metus sed dui congue congue",
+    "imgUrl": "https://kamleshyadav.com/healthcare/images/portfolio/portfolio8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Ward",
+    "description": "Fusce auctor magna aus feugiat ultricies. Donec aliquet dolor elit volutpat neque pulvinar eu. Nullam dapibus metus sed dui congue congue",
+    "imgUrl": "https://kamleshyadav.com/healthcare/images/portfolio/portfolio9.jpg"
+  }
+]
